@@ -1,6 +1,6 @@
 # README: Learning the Basics of System and Cloud Administration
 
-![System and Cloud Administration](https://example.com/images/system-cloud-admin.jpg)
+![System and Cloud Administration](Docs - Introduction to system and cloud Administration/Image/SystemAdmin.jpg)
 
 ## Table of Contents
 
@@ -20,34 +20,40 @@ System administration involves managing and maintaining computer systems, server
 ### Key Responsibilities
 
 - **User Management:** Adding, removing, and managing user accounts and permissions.
+
 - **System Monitoring:** Tracking system performance and uptime.
+
 - **Backup and Recovery:** Ensuring data is backed up and can be restored.
+
 - **Security Management:** Implementing security measures to protect systems.
 
-![System Administration](https://example.com/images/system-admin.jpg)
+![System Administration](Docs - Introduction to system and cloud Administration/Image/wp11008588-system-admin-wallpapers.jpg)
 
 ## Key Concepts in System Administration
 
 ### 1. Operating Systems
 
 - **Windows, Linux, and macOS**: Understanding different operating systems and their management tools.
+
 - **File Systems**: Managing storage and file permissions.
 
 ### 2. Networking
 
 - **IP Addressing**: Understanding how devices communicate over networks.
+
 - **DNS and DHCP**: Managing network services.
 
 ### 3. Security
 
 - **Firewalls**: Setting up and configuring firewalls to protect systems.
+
 - **Encryption**: Implementing encryption to secure data.
 
 ### 4. Automation
 
 - **Scripting**: Using shell scripts or languages like Python for task automation.
 
-![Networking](https://example.com/images/networking.jpg)
+![Networking](Docs - Introduction to system and cloud Administration/Image/Cloud Network.png)
 
 ## Introduction to Cloud Administration
 
@@ -56,10 +62,12 @@ Cloud administration focuses on managing cloud-based services and infrastructure
 ### Key Responsibilities
 
 - **Resource Management:** Provisioning and managing cloud resources like VMs and storage.
+
 - **Cost Management:** Monitoring and optimizing cloud costs.
+
 - **Security and Compliance:** Ensuring cloud environments adhere to security and compliance standards.
 
-![Cloud Administration](https://example.com/images/cloud-admin.jpg)
+![Cloud Administration](Docs - Introduction to system and cloud Administration/Image/Cloud Adminitration.jpg)
 
 ## Key Concepts in Cloud Administration
 
@@ -80,7 +88,7 @@ Cloud administration focuses on managing cloud-based services and infrastructure
 - **Identity and Access Management (IAM)**: Managing access to cloud resources.
 - **Data Encryption**: Protecting data in transit and at rest.
 
-![Cloud Providers](https://example.com/images/cloud-providers.jpg)
+![Cloud Providers](Docs - Introduction to system and cloud Administration/Image/Cloud Providers.jpg)
 
 ## Essential Tools for System Administration
 
@@ -100,7 +108,8 @@ Cloud administration focuses on managing cloud-based services and infrastructure
 
 - **rsync, Veeam**: For backing up and restoring data.
 
-![Monitoring Tools](https://example.com/images/monitoring-tools.jpg)
+![Monitoring Tools](Docs - Introduction to system and cloud Administration/Image/alerts-page.png)
+![Monitoring](Docs - Introduction to system and cloud Administration/Image/sample-defender-dashboard-numbered.png)
 
 ## Essential Tools for Cloud Administration
 
@@ -120,7 +129,7 @@ Cloud administration focuses on managing cloud-based services and infrastructure
 
 - **AWS Security Hub, Azure Security Center**: For monitoring and enhancing cloud security.
 
-![Cloud Management](https://example.com/images/cloud-management.jpg)
+![Cloud Management](Docs - Introduction to system and cloud Administration/Image/Cloud Management.jpg)
 
 ## Workflow for System and Cloud Administration
 
@@ -148,7 +157,7 @@ Cloud administration focuses on managing cloud-based services and infrastructure
 
 - Continuously monitor and update security measures to protect against threats.
 
-![Workflow](https://example.com/images/workflow.jpg)
+![Workflow](Docs - Introduction to system and cloud Administration/Image/M365AdminIsolation.png)
 
 ## Additional Resources
 
