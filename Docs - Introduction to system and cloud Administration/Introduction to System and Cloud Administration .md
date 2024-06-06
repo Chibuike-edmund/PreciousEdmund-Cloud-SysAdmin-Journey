@@ -27,7 +27,7 @@ System administration involves managing and maintaining computer systems, server
 
 - **Security Management:** Implementing security measures to protect systems.
 
-![System Administration](Docs - Introduction to system and cloud Administration/Image/wp11008588-system-admin-wallpapers.jpg)
+           ![System Administration](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/SystemAdmin.jpg)
 
 ## Key Concepts in System Administration
 
@@ -53,7 +53,7 @@ System administration involves managing and maintaining computer systems, server
 
 - **Scripting**: Using shell scripts or languages like Python for task automation.
 
-![Networking](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/Cloud%20Network.png)
+         ![Networking](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/Cloud%20Network.png)
 
 ## Introduction to Cloud Administration
 
@@ -67,7 +67,7 @@ Cloud administration focuses on managing cloud-based services and infrastructure
 
 - **Security and Compliance:** Ensuring cloud environments adhere to security and compliance standards.
 
-![Cloud Administration](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/Cloud%20Adminitration.jpg)
+           ![Cloud Administration](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/Cloud%20Adminitration.jpg)
 
 ## Key Concepts in Cloud Administration
 
@@ -88,7 +88,7 @@ Cloud administration focuses on managing cloud-based services and infrastructure
 - **Identity and Access Management (IAM)**: Managing access to cloud resources.
 - **Data Encryption**: Protecting data in transit and at rest.
 
-![Cloud Providers](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/Cloud%20Providers.jpg)
+          ![Cloud Providers](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/Cloud%20Providers.jpg)
 
 ## Essential Tools for System Administration
 
@@ -108,9 +108,9 @@ Cloud administration focuses on managing cloud-based services and infrastructure
 
 - **rsync, Veeam**: For backing up and restoring data.
 
-![Monitoring Tools](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/Monitoring.jpg)
+            ![Monitoring Tools](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/Monitoring.jpg)
 
-![Monitoring](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/sample-defender-dashboard-numbered.png)
+            ![Monitoring](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/sample-defender-dashboard-numbered.png)
 
 ## Essential Tools for Cloud Administration
 
@@ -130,7 +130,7 @@ Cloud administration focuses on managing cloud-based services and infrastructure
 
 - **AWS Security Hub, Azure Security Center**: For monitoring and enhancing cloud security.
 
-![Cloud Management](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/Cloud%20Management.jpg)
+       ![Cloud Management](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/Cloud%20Management.jpg)
 
 ## Workflow for System and Cloud Administration
 
@@ -158,7 +158,7 @@ Cloud administration focuses on managing cloud-based services and infrastructure
 
 - Continuously monitor and update security measures to protect against threats.
 
-![Workflow](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/M365AdminIsolation.png)
+               ![Workflow](https://github.com/Chibuike-edmund/PreciousEdmund-Cloud-SysAdmin-Journey/blob/main/Docs%20-%20Introduction%20to%20system%20and%20cloud%20Administration/Image/M365AdminIsolation.png)
 
 ## Additional Resources
 
